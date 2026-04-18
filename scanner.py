@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Port Scanner - A simple but powerful TCP port scanner
-Author: [Your Name]
-GitHub: [Your GitHub]
+Author: [Sama Ismael Ahel]
+GitHub: [https://github.com/sam-btw]
 """
 
 import socket
